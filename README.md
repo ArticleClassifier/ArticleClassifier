@@ -6,4 +6,16 @@ Technical implementation of fine-tuning BERT is done by following [the tutorial 
 
 Unfortunately, the dataset used in the code can not be published due to copyright reasons. 
 
+## References 
+
+FinBERT
+
+Virtanen, A., Kanerva, J., Ilo, R., Luoma, J., Luotolahti, J., Salakoski, T., Ginter, F., & Pyysalo, S. (2019). Multilingual is not enough: BERT for Finnish. ArXiv, abs/1912.07076.
+
+Dataset used in the experiment 
+
+Toivanen, P., Nelimarkka, M., & Valaskivi, K. (2021). Remediation in the hybrid media environment: Understanding countermedia in context. New Media & Society. https://doi.org/10.1177/1461444821992701
+
+
+
 
