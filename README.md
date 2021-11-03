@@ -4,7 +4,7 @@ This repository includes the source code of ICA 2022 submission "A workflow for 
 
 Technical implementation of fine-tuning BERT is done by following [the tutorial by Abdou Rockikz](https://www.thepythoncode.com/article/finetuning-bert-using-huggingface-transformers-python). The experiment code was executed in Google Colab GPU environment. 
 
-Unfortunately, the dataset used in the code can not be published due to copyright reasons. 
+Unfortunately, the dataset used in the code can not be published due to copyright reasons. In this paper, the dataset has been used with the permission of the authors. 
 
 ### References 
 
